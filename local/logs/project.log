@@ -1,0 +1,225 @@
+2019-05-16T04:04:55.235Z - normal: Load ~/.CocosCreator/settings.json
+2019-05-16T04:04:55.289Z - normal: Initializing Asset Database
+2019-05-16T04:04:55.291Z - normal: checking language setting...
+2019-05-16T04:04:55.291Z - normal: Language: zh
+2019-05-16T04:04:56.001Z - success: preview server running at http://localhost:7456
+2019-05-16T04:04:56.045Z - success: protocol editor-framework registered
+2019-05-16T04:04:56.045Z - success: protocol app registered
+2019-05-16T04:04:56.045Z - success: protocol theme registered
+2019-05-16T04:04:56.045Z - success: protocol packages registered
+2019-05-16T04:04:56.045Z - success: protocol uuid registerred
+2019-05-16T04:04:56.046Z - success: protocol db registerred
+2019-05-16T04:04:56.046Z - success: protocol thumbnail registerred
+2019-05-16T04:04:56.046Z - success: protocol unpack registerred
+2019-05-16T04:04:56.046Z - success: protocol disable-commonjs registerred
+2019-05-16T04:04:56.151Z - normal: connected!
+2019-05-16T04:04:56.153Z - normal: Check project /Users/daichunfeng/git/EnWordSpell
+2019-05-16T04:04:56.155Z - normal: Initializing project /Users/daichunfeng/git/EnWordSpell
+2019-05-16T04:04:56.462Z - normal: Initializing Cocos2d
+2019-05-16T04:04:57.168Z - normal: Initializing engine extends
+2019-05-16T04:04:57.248Z - success: asset-db-debugger loaded
+2019-05-16T04:04:57.251Z - success: baidu-adapter loaded
+2019-05-16T04:04:57.252Z - success: color-picker loaded
+2019-05-16T04:04:57.344Z - success: fb-audience-network loaded
+2019-05-16T04:04:57.390Z - success: fb-live-stream loaded
+2019-05-16T04:04:57.393Z - success: google-play-instant loaded
+2019-05-16T04:04:57.399Z - success: huawei-runtime loaded
+2019-05-16T04:04:57.400Z - success: jsb-adapter loaded
+2019-05-16T04:04:57.408Z - success: oppo-runtime loaded
+2019-05-16T04:04:57.426Z - success: package-manager loaded
+2019-05-16T04:04:57.559Z - success: qqplay-adapter loaded
+2019-05-16T04:04:57.562Z - success: runtime-dev-tools loaded
+2019-05-16T04:04:57.576Z - success: sdkbox loaded
+2019-05-16T04:04:57.593Z - success: tester loaded
+2019-05-16T04:04:57.611Z - success: ui-grid loaded
+2019-05-16T04:04:57.624Z - success: ui-kit-preview-extra loaded
+2019-05-16T04:04:57.636Z - success: ui-kit-preview loaded
+2019-05-16T04:04:57.650Z - success: ui-kit loaded
+2019-05-16T04:04:57.666Z - success: ui-tree loaded
+2019-05-16T04:04:57.671Z - success: vivo-runtime loaded
+2019-05-16T04:04:57.672Z - success: weapp-adapter loaded
+2019-05-16T04:04:57.717Z - success: assets loaded
+2019-05-16T04:04:57.729Z - success: builder loaded
+2019-05-16T04:04:57.974Z - success: cocos-services loaded
+2019-05-16T04:04:57.988Z - success: console loaded
+2019-05-16T04:04:58.017Z - success: fb-instant-games loaded
+2019-05-16T04:04:58.020Z - success: google-instant-games loaded
+2019-05-16T04:04:58.034Z - success: hierarchy loaded
+2019-05-16T04:04:58.046Z - success: inspector loaded
+2019-05-16T04:04:58.046Z - success: keystore loaded
+2019-05-16T04:04:58.061Z - success: node-library loaded
+2019-05-16T04:04:58.062Z - success: package-asset loaded
+2019-05-16T04:04:58.063Z - success: preferences loaded
+2019-05-16T04:04:58.075Z - success: project-exporter loaded
+2019-05-16T04:04:58.089Z - success: project-importer loaded
+2019-05-16T04:04:58.101Z - success: project-settings loaded
+2019-05-16T04:04:58.117Z - success: scene loaded
+2019-05-16T04:04:58.119Z - success: simulator-debugger loaded
+2019-05-16T04:04:58.120Z - success: sprite-editor loaded
+2019-05-16T04:04:58.133Z - success: store loaded
+2019-05-16T04:04:58.172Z - success: timeline loaded
+2019-05-16T04:04:59.229Z - normal: Loading packages
+2019-05-16T04:04:59.234Z - normal: Watching packages
+2019-05-16T04:04:59.310Z - normal: Run Application
+2019-05-16T04:04:59.626Z - info: Cocos Services load base data!
+2019-05-16T04:05:08.292Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 773.00
+2019-05-16T04:05:08.292Z - normal: Simulator: FRAME SCALE = 0.50
+2019-05-16T04:05:08.388Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-05-16T04:05:08.388Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
+2019-05-16T04:05:08.388Z - normal: Simulator: 
+2019-05-16T04:05:08.389Z - normal: Simulator: {
+2019-05-16T04:05:08.389Z - normal: Simulator: 	build_type: DEBUG
+2019-05-16T04:05:08.389Z - normal: Simulator: 	gl.vendor: Intel Inc.
+2019-05-16T04:05:08.389Z - normal: Simulator: 	gl.supports_PVRTC: false
+2019-05-16T04:05:08.390Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Plus Graphics 655
+2019-05-16T04:05:08.390Z - normal: Simulator: 	gl.supports_ATITC: false
+2019-05-16T04:05:08.390Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2019-05-16T04:05:08.390Z - normal: Simulator: 	gl.supports_NPOT: true
+2019-05-16T04:05:08.391Z - normal: Simulator: 	gl.max_texture_units: 16
+2019-05-16T04:05:08.391Z - normal: Simulator: 	gl.supports_ETC1: false
+2019-05-16T04:05:08.391Z - normal: Simulator: 	gl.max_texture_size: 16384
+2019-05-16T04:05:08.391Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2019-05-16T04:05:08.391Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2019-05-16T04:05:08.392Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2019-05-16T04:05:08.392Z - normal: Simulator: 	compiled_with_gl_state_cache: true
+2019-05-16T04:05:08.392Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2019-05-16T04:05:08.392Z - normal: Simulator: 	gl.version: 2.1 INTEL-12.8.38
+2019-05-16T04:05:08.393Z - normal: Simulator: 	gl.supports_S3TC: true
+2019-05-16T04:05:08.393Z - normal: Simulator: 	compiled_with_profiler: false
+2019-05-16T04:05:08.393Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2019-05-16T04:05:08.393Z - normal: Simulator: }
+2019-05-16T04:05:08.428Z - normal: Simulator: Project Config:
+2019-05-16T04:05:08.429Z - normal: Simulator:     project dir: /Applications/CocosCreator 2.0.9.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
+2019-05-16T04:05:08.429Z - normal: Simulator:     writable path: $(PROJDIR)/
+2019-05-16T04:05:08.429Z - normal: Simulator:     script file: $(PROJDIR)/main.js
+2019-05-16T04:05:08.430Z - normal: Simulator:     frame size: 2208 x 1242
+2019-05-16T04:05:08.430Z - normal: Simulator:     frame scale: 0.50
+2019-05-16T04:05:08.430Z - normal: Simulator:     show console: NO
+2019-05-16T04:05:08.430Z - normal: Simulator:     write debug log: NO ()
+2019-05-16T04:05:08.431Z - normal: Simulator:     listen: 
+2019-05-16T04:05:08.431Z - normal: Simulator:     debugger: none
+2019-05-16T04:05:08.431Z - normal: Simulator:     add searching path:
+2019-05-16T04:05:08.431Z - normal: Simulator: resetDesignResolution request
+2019-05-16T04:05:08.431Z - normal: Simulator: ------------------------------------------------
+2019-05-16T04:05:08.431Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2019-05-16T04:05:08.432Z - normal: Simulator: ------------------------------------------------
+2019-05-16T04:05:08.432Z - normal: Simulator: Initializing V8, version: 6.5.254.43
+2019-05-16T04:05:08.454Z - normal: Simulator: libuv version: 1.23.1-dev
+2019-05-16T04:05:08.456Z - normal: Simulator: Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2019-05-16T04:05:08.456Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
+2019-05-16T04:05:08.509Z - normal: Simulator: JS: Enable batch GL commands optimization!
+2019-05-16T04:05:08.514Z - normal: Simulator: resetDesignResolution request
+2019-05-16T04:05:08.515Z - normal: Simulator: ------------------------------------------------
+2019-05-16T04:05:08.515Z - normal: Simulator: LOAD Js FILE: main.js
+2019-05-16T04:05:08.515Z - normal: Simulator: ------------------------------------------------
+2019-05-16T04:05:08.815Z - normal: Simulator: iShow!
+2019-05-16T04:05:08.993Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
+2019-05-16T04:05:09.004Z - normal: Simulator: JS: Cocos Creator v2.0.9
+2019-05-16T04:05:09.157Z - normal: Simulator: JS: Loading word list
+2019-05-16T04:05:09.157Z - normal: Simulator: JS: [WARN]: loadRes: should not specify the extname in words .json
+2019-05-16T04:05:09.227Z - normal: Simulator: JS: [WARN]: loadRes: should not specify the extname in config .json
+2019-05-16T04:05:09.262Z - normal: Simulator: JS: Loaded 61435 words.
+2019-05-16T04:05:14.760Z - normal: Simulator: ScriptEngine::cleanup begin ...
+2019-05-16T04:05:14.761Z - normal: Simulator: GC begin ..., (js->native map) size: 178, all objects: 324
+2019-05-16T04:05:14.798Z - normal: Simulator: GC end ..., (js->native map) size: 178, all objects: 324
+2019-05-16T04:05:14.798Z - normal: Simulator: GC begin ..., (js->native map) size: 178, all objects: 324
+2019-05-16T04:05:14.826Z - normal: Simulator: GC end ..., (js->native map) size: 178, all objects: 324
+2019-05-16T04:05:14.827Z - normal: Simulator: Destroy WebGLBuffer (10) by GC
+2019-05-16T04:05:14.828Z - normal: Simulator: Destroy WebGLTexture (81) by GC
+2019-05-16T04:05:14.828Z - normal: Simulator: Destroy WebGLProgram (9) by GC
+2019-05-16T04:05:14.829Z - normal: Simulator: Destroy WebGLTexture (79) by GC
+2019-05-16T04:05:14.829Z - normal: Simulator: Destroy WebGLBuffer (9) by GC
+2019-05-16T04:05:14.830Z - normal: Simulator: Destroy WebGLTexture (74) by GC
+2019-05-16T04:05:14.832Z - normal: Simulator: Destroy WebGLTexture (73) by GC
+2019-05-16T04:05:14.832Z - normal: Simulator: Destroy WebGLTexture (70) by GC
+2019-05-16T04:05:14.833Z - normal: Simulator: Destroy WebGLTexture (68) by GC
+2019-05-16T04:05:14.833Z - normal: Simulator: Destroy WebGLTexture (67) by GC
+2019-05-16T04:05:14.833Z - normal: Simulator: Destroy WebGLTexture (65) by GC
+2019-05-16T04:05:14.835Z - normal: Simulator: Destroy WebGLTexture (64) by GC
+2019-05-16T04:05:14.836Z - normal: Simulator: Destroy WebGLTexture (61) by GC
+2019-05-16T04:05:14.836Z - normal: Simulator: Destroy WebGLTexture (59) by GC
+2019-05-16T04:05:14.836Z - normal: Simulator: Destroy WebGLTexture (57) by GC
+2019-05-16T04:05:14.836Z - normal: Simulator: Destroy WebGLTexture (56) by GC
+2019-05-16T04:05:14.836Z - normal: Simulator: Destroy WebGLTexture (55) by GC
+2019-05-16T04:05:14.837Z - normal: Simulator: Destroy WebGLTexture (54) by GC
+2019-05-16T04:05:14.837Z - normal: Simulator: Destroy WebGLTexture (49) by GC
+2019-05-16T04:05:14.837Z - normal: Simulator: Destroy WebGLTexture (48) by GC
+2019-05-16T04:05:14.837Z - normal: Simulator: Destroy WebGLTexture (47) by GC
+2019-05-16T04:05:14.837Z - normal: Simulator: Destroy WebGLTexture (46) by GC
+2019-05-16T04:05:14.838Z - normal: Simulator: Destroy WebGLTexture (69) by GC
+2019-05-16T04:05:14.838Z - normal: Simulator: Destroy WebGLTexture (45) by GC
+2019-05-16T04:05:14.838Z - normal: Simulator: Destroy WebGLTexture (43) by GC
+2019-05-16T04:05:14.838Z - normal: Simulator: Destroy WebGLTexture (42) by GC
+2019-05-16T04:05:14.838Z - normal: Simulator: Destroy WebGLTexture (40) by GC
+2019-05-16T04:05:14.839Z - normal: Simulator: Destroy WebGLTexture (60) by GC
+2019-05-16T04:05:14.839Z - normal: Simulator: Destroy WebGLTexture (80) by GC
+2019-05-16T04:05:14.840Z - normal: Simulator: Destroy WebGLTexture (7) by GC
+2019-05-16T04:05:14.840Z - normal: Simulator: Destroy WebGLTexture (32) by GC
+2019-05-16T04:05:14.840Z - normal: Simulator: Destroy WebGLTexture (31) by GC
+2019-05-16T04:05:14.841Z - normal: Simulator: Destroy WebGLTexture (30) by GC
+2019-05-16T04:05:14.841Z - normal: Simulator: Destroy WebGLTexture (39) by GC
+2019-05-16T04:05:14.841Z - normal: Simulator: Destroy WebGLTexture (50) by GC
+2019-05-16T04:05:14.842Z - normal: Simulator: Destroy WebGLProgram (6) by GC
+2019-05-16T04:05:14.842Z - normal: Simulator: Destroy WebGLTexture (53) by GC
+2019-05-16T04:05:14.842Z - normal: Simulator: Destroy WebGLTexture (25) by GC
+2019-05-16T04:05:14.842Z - normal: Simulator: Destroy WebGLBuffer (6) by GC
+2019-05-16T04:05:14.843Z - normal: Simulator: Destroy WebGLTexture (18) by GC
+2019-05-16T04:05:14.843Z - normal: Simulator: Destroy WebGLTexture (51) by GC
+2019-05-16T04:05:14.843Z - normal: Simulator: Destroy WebGLTexture (23) by GC
+2019-05-16T04:05:14.843Z - normal: Simulator: Destroy WebGLTexture (78) by GC
+2019-05-16T04:05:14.844Z - normal: Simulator: Destroy WebGLTexture (4) by GC
+2019-05-16T04:05:14.844Z - normal: Simulator: Destroy WebGLTexture (22) by GC
+2019-05-16T04:05:14.844Z - normal: Simulator: Destroy WebGLTexture (35) by GC
+2019-05-16T04:05:14.845Z - normal: Simulator: Destroy WebGLTexture (3) by GC
+2019-05-16T04:05:14.845Z - normal: Simulator: Destroy WebGLTexture (21) by GC
+2019-05-16T04:05:14.846Z - normal: Simulator: Destroy WebGLBuffer (7) by GC
+2019-05-16T04:05:14.846Z - normal: Simulator: Destroy WebGLTexture (1) by GC
+2019-05-16T04:05:14.846Z - normal: Simulator: Destroy WebGLTexture (20) by GC
+2019-05-16T04:05:14.846Z - normal: Simulator: Destroy WebGLTexture (37) by GC
+2019-05-16T04:05:14.847Z - normal: Simulator: Destroy WebGLTexture (26) by GC
+2019-05-16T04:05:14.847Z - normal: Simulator: Destroy WebGLTexture (19) by GC
+2019-05-16T04:05:14.848Z - normal: Simulator: Destroy WebGLTexture (36) by GC
+2019-05-16T04:05:14.848Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
+2019-05-16T04:05:14.848Z - normal: Simulator: Destroy WebGLTexture (63) by GC
+2019-05-16T04:05:14.849Z - normal: Simulator: Destroy WebGLTexture (15) by GC
+2019-05-16T04:05:14.849Z - normal: Simulator: Destroy WebGLTexture (24) by GC
+2019-05-16T04:05:14.849Z - normal: Simulator: Destroy WebGLTexture (77) by GC
+2019-05-16T04:05:14.850Z - normal: Simulator: Destroy WebGLTexture (52) by GC
+2019-05-16T04:05:14.850Z - normal: Simulator: Destroy WebGLTexture (16) by GC
+2019-05-16T04:05:14.850Z - normal: Simulator: Destroy WebGLTexture (66) by GC
+2019-05-16T04:05:14.850Z - normal: Simulator: Destroy WebGLTexture (13) by GC
+2019-05-16T04:05:14.850Z - normal: Simulator: Destroy WebGLTexture (41) by GC
+2019-05-16T04:05:14.851Z - normal: Simulator: Destroy WebGLTexture (33) by GC
+2019-05-16T04:05:14.851Z - normal: Simulator: Destroy WebGLTexture (34) by GC
+2019-05-16T04:05:14.851Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
+2019-05-16T04:05:14.851Z - normal: Simulator: Destroy WebGLTexture (12) by GC
+2019-05-16T04:05:14.851Z - normal: Simulator: Destroy WebGLTexture (11) by GC
+2019-05-16T04:05:14.852Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
+2019-05-16T04:05:14.853Z - normal: Simulator: Destroy WebGLTexture (9) by GC
+2019-05-16T04:05:14.853Z - normal: Simulator: Destroy WebGLProgram (3) by GC
+2019-05-16T04:05:14.853Z - normal: Simulator: Destroy WebGLTexture (10) by GC
+2019-05-16T04:05:14.854Z - normal: Simulator: Destroy WebGLTexture (44) by GC
+2019-05-16T04:05:14.854Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
+2019-05-16T04:05:14.854Z - normal: Simulator: Destroy WebGLTexture (58) by GC
+2019-05-16T04:05:14.854Z - normal: Simulator: Destroy WebGLTexture (38) by GC
+2019-05-16T04:05:14.855Z - normal: Simulator: Destroy WebGLTexture (6) by GC
+2019-05-16T04:05:14.855Z - normal: Simulator: Destroy WebGLTexture (28) by GC
+2019-05-16T04:05:14.855Z - normal: Simulator: Destroy WebGLTexture (76) by GC
+2019-05-16T04:05:14.855Z - normal: Simulator: Destroy WebGLTexture (5) by GC
+2019-05-16T04:05:14.855Z - normal: Simulator: Destroy WebGLTexture (14) by GC
+2019-05-16T04:05:14.856Z - normal: Simulator: Destroy WebGLTexture (2) by GC
+2019-05-16T04:05:14.856Z - normal: Simulator: Destroy WebGLBuffer (8) by GC
+2019-05-16T04:05:14.857Z - normal: Simulator: Destroy WebGLBuffer (5) by GC
+2019-05-16T04:05:14.857Z - normal: Simulator: Destroy WebGLTexture (8) by GC
+2019-05-16T04:05:14.857Z - normal: Simulator: Destroy WebGLTexture (62) by GC
+2019-05-16T04:05:14.857Z - normal: Simulator: Destroy WebGLTexture (75) by GC
+2019-05-16T04:05:14.857Z - normal: Simulator: Destroy WebGLTexture (71) by GC
+2019-05-16T04:05:14.858Z - normal: Simulator: Destroy WebGLTexture (29) by GC
+2019-05-16T04:05:14.858Z - normal: Simulator: Destroy WebGLTexture (27) by GC
+2019-05-16T04:05:14.858Z - normal: Simulator: Destroy WebGLTexture (72) by GC
+2019-05-16T04:05:14.858Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
+2019-05-16T04:05:14.859Z - normal: Simulator: Destroy WebGLTexture (17) by GC
+2019-05-16T04:05:14.859Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: 0
+2019-05-16T04:05:14.869Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: 0
+2019-05-16T04:05:14.876Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-05-16T04:06:12.010Z - info: shutdown preview server

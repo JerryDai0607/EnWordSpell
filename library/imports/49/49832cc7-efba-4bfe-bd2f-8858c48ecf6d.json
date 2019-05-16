@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "iframe2",
+    "texture": "31c4665a-b54a-4ee8-9fc9-009b8f8d693d",
+    "atlas": "",
+    "rect": [
+      5,
+      4,
+      73,
+      73
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      82,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
