@@ -3025,8 +3025,8 @@
     "clickEvents": [],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
-    "_N$transition": 2,
-    "transition": 2,
+    "_N$transition": 3,
+    "transition": 3,
     "_N$normalColor": {
       "__type__": "cc.Color",
       "r": 255,
@@ -3285,8 +3285,8 @@
     "clickEvents": [],
     "_N$interactable": true,
     "_N$enableAutoGrayEffect": false,
-    "_N$transition": 2,
-    "transition": 2,
+    "_N$transition": 3,
+    "transition": 3,
     "_N$normalColor": {
       "__type__": "cc.Color",
       "r": 255,
@@ -3381,7 +3381,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 482.61,
+      "width": 269.33,
       "height": 80
     },
     "_anchorPoint": {
@@ -3424,8 +3424,8 @@
     },
     "_enabled": true,
     "_useOriginalSize": false,
-    "_string": "Scrabble Together",
-    "_N$string": "Scrabble Together",
+    "_string": "SCRABBLE",
+    "_N$string": "SCRABBLE",
     "_fontSize": 60,
     "_lineHeight": 80,
     "_enableWrapText": true,
