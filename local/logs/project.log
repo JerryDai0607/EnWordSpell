@@ -1,252 +1,65 @@
-2019-05-17T02:13:16.515Z - normal: Load ~/.CocosCreator/settings.json
-2019-05-17T02:13:16.575Z - normal: Initializing Asset Database
-2019-05-17T02:13:16.579Z - normal: checking language setting...
-2019-05-17T02:13:16.579Z - normal: Language: zh
-2019-05-17T02:13:17.358Z - success: preview server running at http://localhost:7456
-2019-05-17T02:13:17.403Z - success: protocol editor-framework registered
-2019-05-17T02:13:17.403Z - success: protocol app registered
-2019-05-17T02:13:17.403Z - success: protocol theme registered
-2019-05-17T02:13:17.403Z - success: protocol packages registered
-2019-05-17T02:13:17.403Z - success: protocol uuid registerred
-2019-05-17T02:13:17.403Z - success: protocol db registerred
-2019-05-17T02:13:17.403Z - success: protocol thumbnail registerred
-2019-05-17T02:13:17.404Z - success: protocol unpack registerred
-2019-05-17T02:13:17.404Z - success: protocol disable-commonjs registerred
-2019-05-17T02:13:17.526Z - normal: connected!
-2019-05-17T02:13:17.528Z - normal: Check project /Users/daichunfeng/git/EnWordSpell
-2019-05-17T02:13:17.530Z - normal: Initializing project /Users/daichunfeng/git/EnWordSpell
-2019-05-17T02:13:17.911Z - normal: Initializing Cocos2d
-2019-05-17T02:13:18.626Z - normal: Initializing engine extends
-2019-05-17T02:13:18.686Z - success: asset-db-debugger loaded
-2019-05-17T02:13:18.700Z - success: baidu-adapter loaded
-2019-05-17T02:13:18.700Z - success: color-picker loaded
-2019-05-17T02:13:18.804Z - success: fb-audience-network loaded
-2019-05-17T02:13:18.863Z - success: fb-live-stream loaded
-2019-05-17T02:13:18.866Z - success: google-play-instant loaded
-2019-05-17T02:13:18.871Z - success: huawei-runtime loaded
-2019-05-17T02:13:18.872Z - success: jsb-adapter loaded
-2019-05-17T02:13:18.877Z - success: oppo-runtime loaded
-2019-05-17T02:13:18.894Z - success: package-manager loaded
-2019-05-17T02:13:19.046Z - success: qqplay-adapter loaded
-2019-05-17T02:13:19.047Z - success: runtime-dev-tools loaded
-2019-05-17T02:13:19.066Z - success: sdkbox loaded
-2019-05-17T02:13:19.082Z - success: tester loaded
-2019-05-17T02:13:19.096Z - success: ui-grid loaded
-2019-05-17T02:13:19.110Z - success: ui-kit-preview-extra loaded
-2019-05-17T02:13:19.126Z - success: ui-kit-preview loaded
-2019-05-17T02:13:19.140Z - success: ui-kit loaded
-2019-05-17T02:13:19.154Z - success: ui-tree loaded
-2019-05-17T02:13:19.161Z - success: vivo-runtime loaded
-2019-05-17T02:13:19.162Z - success: weapp-adapter loaded
-2019-05-17T02:13:19.208Z - success: assets loaded
-2019-05-17T02:13:19.222Z - success: builder loaded
-2019-05-17T02:13:19.547Z - success: cocos-services loaded
-2019-05-17T02:13:19.563Z - success: console loaded
-2019-05-17T02:13:19.593Z - success: fb-instant-games loaded
-2019-05-17T02:13:19.595Z - success: google-instant-games loaded
-2019-05-17T02:13:19.617Z - success: hierarchy loaded
-2019-05-17T02:13:19.653Z - success: inspector loaded
-2019-05-17T02:13:19.655Z - success: keystore loaded
-2019-05-17T02:13:19.673Z - success: node-library loaded
-2019-05-17T02:13:19.674Z - success: package-asset loaded
-2019-05-17T02:13:19.676Z - success: preferences loaded
-2019-05-17T02:13:19.689Z - success: project-exporter loaded
-2019-05-17T02:13:19.737Z - success: project-importer loaded
-2019-05-17T02:13:19.750Z - success: project-settings loaded
-2019-05-17T02:13:19.767Z - success: scene loaded
-2019-05-17T02:13:19.768Z - success: simulator-debugger loaded
-2019-05-17T02:13:19.770Z - success: sprite-editor loaded
-2019-05-17T02:13:19.786Z - success: store loaded
-2019-05-17T02:13:19.803Z - success: timeline loaded
-2019-05-17T02:13:21.195Z - normal: Loading packages
-2019-05-17T02:13:21.207Z - normal: Watching packages
-2019-05-17T02:13:21.310Z - info: Cocos Services load base data!
-2019-05-17T02:13:21.315Z - normal: Run Application
-2019-05-17T02:18:29.149Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
-2019-05-17T02:18:29.151Z - normal: Simulator: FRAME SCALE = 0.75
-2019-05-17T02:18:29.278Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2019-05-17T02:18:29.279Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2019-05-17T02:18:29.279Z - normal: Simulator: 
-2019-05-17T02:18:29.279Z - normal: Simulator: {
-2019-05-17T02:18:29.279Z - normal: Simulator: 	build_type: DEBUG
-2019-05-17T02:18:29.280Z - normal: Simulator: 	gl.vendor: Intel Inc.
-2019-05-17T02:18:29.280Z - normal: Simulator: 	gl.supports_PVRTC: false
-2019-05-17T02:18:29.281Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Plus Graphics 655
-2019-05-17T02:18:29.281Z - normal: Simulator: 	gl.supports_ATITC: false
-2019-05-17T02:18:29.281Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2019-05-17T02:18:29.282Z - normal: Simulator: 	gl.supports_NPOT: true
-2019-05-17T02:18:29.282Z - normal: Simulator: 	gl.max_texture_units: 16
-2019-05-17T02:18:29.282Z - normal: Simulator: 	gl.supports_ETC1: false
-2019-05-17T02:18:29.282Z - normal: Simulator: 	gl.max_texture_size: 16384
-2019-05-17T02:18:29.282Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2019-05-17T02:18:29.283Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2019-05-17T02:18:29.283Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2019-05-17T02:18:29.283Z - normal: Simulator: 	compiled_with_gl_state_cache: true
-2019-05-17T02:18:29.283Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2019-05-17T02:18:29.284Z - normal: Simulator: 	gl.version: 2.1 INTEL-12.8.38
-2019-05-17T02:18:29.284Z - normal: Simulator: 	gl.supports_S3TC: true
-2019-05-17T02:18:29.284Z - normal: Simulator: 	compiled_with_profiler: false
-2019-05-17T02:18:29.284Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2019-05-17T02:18:29.284Z - normal: Simulator: }
-2019-05-17T02:18:29.301Z - normal: Simulator: Project Config:
-2019-05-17T02:18:29.302Z - normal: Simulator:     project dir: /Applications/CocosCreator 2.0.9.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
-2019-05-17T02:18:29.302Z - normal: Simulator:     writable path: $(PROJDIR)/
-2019-05-17T02:18:29.302Z - normal: Simulator:     script file: $(PROJDIR)/main.js
-2019-05-17T02:18:29.302Z - normal: Simulator:     frame size: 2208 x 1242
-2019-05-17T02:18:29.303Z - normal: Simulator:     frame scale: 0.75
-2019-05-17T02:18:29.303Z - normal: Simulator:     show console: NO
-2019-05-17T02:18:29.303Z - normal: Simulator:     write debug log: NO ()
-2019-05-17T02:18:29.303Z - normal: Simulator:     listen: 
-2019-05-17T02:18:29.303Z - normal: Simulator:     debugger: none
-2019-05-17T02:18:29.304Z - normal: Simulator:     add searching path:
-2019-05-17T02:18:29.304Z - normal: Simulator: resetDesignResolution request
-2019-05-17T02:18:29.304Z - normal: Simulator: ------------------------------------------------
-2019-05-17T02:18:29.304Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2019-05-17T02:18:29.304Z - normal: Simulator: ------------------------------------------------
-2019-05-17T02:18:29.305Z - normal: Simulator: Initializing V8, version: 6.5.254.43
-2019-05-17T02:18:29.354Z - normal: Simulator: libuv version: 1.23.1-dev
-2019-05-17T02:18:29.355Z - normal: Simulator: Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2019-05-17T02:18:29.355Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
-2019-05-17T02:18:29.427Z - normal: Simulator: JS: Enable batch GL commands optimization!
-2019-05-17T02:18:29.427Z - normal: Simulator: resetDesignResolution request
-2019-05-17T02:18:29.427Z - normal: Simulator: ------------------------------------------------
-2019-05-17T02:18:29.427Z - normal: Simulator: LOAD Js FILE: main.js
-2019-05-17T02:18:29.428Z - normal: Simulator: ------------------------------------------------
-2019-05-17T02:18:29.731Z - normal: Simulator: iShow!
-2019-05-17T02:18:29.888Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
-2019-05-17T02:18:29.897Z - normal: Simulator: JS: Cocos Creator v2.0.9
-2019-05-17T02:18:30.116Z - normal: Simulator: JS: Loading word list
-2019-05-17T02:18:30.117Z - normal: Simulator: JS: [WARN]: loadRes: should not specify the extname in words .json
-2019-05-17T02:18:30.190Z - normal: Simulator: JS: [WARN]: loadRes: should not specify the extname in config .json
-2019-05-17T02:18:30.228Z - normal: Simulator: JS: Loaded 61435 words.
-2019-05-17T02:18:34.036Z - normal: Simulator: ScriptEngine::cleanup begin ...
-2019-05-17T02:18:34.037Z - normal: Simulator: GC begin ..., (js->native map) size: 46, all objects: 130
-2019-05-17T02:18:34.068Z - normal: Simulator: GC end ..., (js->native map) size: 46, all objects: 130
-2019-05-17T02:18:34.069Z - normal: Simulator: GC begin ..., (js->native map) size: 46, all objects: 130
-2019-05-17T02:18:34.094Z - normal: Simulator: GC end ..., (js->native map) size: 46, all objects: 130
-2019-05-17T02:18:34.094Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
-2019-05-17T02:18:34.095Z - normal: Simulator: Destroy WebGLTexture (19) by GC
-2019-05-17T02:18:34.095Z - normal: Simulator: Destroy WebGLTexture (17) by GC
-2019-05-17T02:18:34.097Z - normal: Simulator: Destroy WebGLTexture (14) by GC
-2019-05-17T02:18:34.098Z - normal: Simulator: Destroy WebGLTexture (15) by GC
-2019-05-17T02:18:34.098Z - normal: Simulator: Destroy WebGLTexture (18) by GC
-2019-05-17T02:18:34.098Z - normal: Simulator: Destroy WebGLTexture (12) by GC
-2019-05-17T02:18:34.099Z - normal: Simulator: Destroy WebGLTexture (10) by GC
-2019-05-17T02:18:34.099Z - normal: Simulator: Destroy WebGLTexture (1) by GC
-2019-05-17T02:18:34.099Z - normal: Simulator: Destroy WebGLTexture (9) by GC
-2019-05-17T02:18:34.099Z - normal: Simulator: Destroy WebGLProgram (3) by GC
-2019-05-17T02:18:34.099Z - normal: Simulator: Destroy WebGLBuffer (8) by GC
-2019-05-17T02:18:34.100Z - normal: Simulator: Destroy WebGLBuffer (6) by GC
-2019-05-17T02:18:34.101Z - normal: Simulator: Destroy WebGLTexture (11) by GC
-2019-05-17T02:18:34.101Z - normal: Simulator: Destroy WebGLBuffer (7) by GC
-2019-05-17T02:18:34.101Z - normal: Simulator: Destroy WebGLTexture (4) by GC
-2019-05-17T02:18:34.101Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
-2019-05-17T02:18:34.101Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
-2019-05-17T02:18:34.101Z - normal: Simulator: Destroy WebGLTexture (13) by GC
-2019-05-17T02:18:34.101Z - normal: Simulator: Destroy WebGLTexture (5) by GC
-2019-05-17T02:18:34.102Z - normal: Simulator: Destroy WebGLTexture (2) by GC
-2019-05-17T02:18:34.102Z - normal: Simulator: Destroy WebGLTexture (16) by GC
-2019-05-17T02:18:34.102Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
-2019-05-17T02:18:34.102Z - normal: Simulator: Destroy WebGLTexture (8) by GC
-2019-05-17T02:18:34.102Z - normal: Simulator: Destroy WebGLTexture (3) by GC
-2019-05-17T02:18:34.103Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
-2019-05-17T02:18:34.103Z - normal: Simulator: Destroy WebGLTexture (6) by GC
-2019-05-17T02:18:34.103Z - normal: Simulator: Destroy WebGLBuffer (5) by GC
-2019-05-17T02:18:34.103Z - normal: Simulator: Destroy WebGLTexture (7) by GC
-2019-05-17T02:18:34.103Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: 0
-2019-05-17T02:18:34.126Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: 0
-2019-05-17T02:18:34.132Z - normal: Simulator: ScriptEngine::cleanup end ...
-2019-05-17T02:18:49.295Z - normal: Simulator: WORKAREA WIDTH 1920.00, HEIGHT 1035.00
-2019-05-17T02:18:49.295Z - normal: Simulator: FRAME SCALE = 0.75
-2019-05-17T02:18:49.350Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2019-05-17T02:18:49.351Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2019-05-17T02:18:49.351Z - normal: Simulator: 
-2019-05-17T02:18:49.368Z - normal: Simulator: {
-2019-05-17T02:18:49.368Z - normal: Simulator: 	build_type: DEBUG
-2019-05-17T02:18:49.368Z - normal: Simulator: 	gl.vendor: Intel Inc.
-2019-05-17T02:18:49.368Z - normal: Simulator: 	gl.supports_PVRTC: false
-2019-05-17T02:18:49.369Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Plus Graphics 655
-2019-05-17T02:18:49.369Z - normal: Simulator: 	gl.supports_ATITC: false
-2019-05-17T02:18:49.369Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2019-05-17T02:18:49.369Z - normal: Simulator: 	gl.supports_NPOT: true
-2019-05-17T02:18:49.369Z - normal: Simulator: 	gl.max_texture_units: 16
-2019-05-17T02:18:49.370Z - normal: Simulator: 	gl.supports_ETC1: false
-2019-05-17T02:18:49.370Z - normal: Simulator: 	gl.max_texture_size: 16384
-2019-05-17T02:18:49.370Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2019-05-17T02:18:49.371Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2019-05-17T02:18:49.371Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2019-05-17T02:18:49.371Z - normal: Simulator: 	compiled_with_gl_state_cache: true
-2019-05-17T02:18:49.371Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2019-05-17T02:18:49.372Z - normal: Simulator: 	gl.version: 2.1 INTEL-12.8.38
-2019-05-17T02:18:49.372Z - normal: Simulator: 	gl.supports_S3TC: true
-2019-05-17T02:18:49.372Z - normal: Simulator: 	compiled_with_profiler: false
-2019-05-17T02:18:49.373Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2019-05-17T02:18:49.373Z - normal: Simulator: }
-2019-05-17T02:18:49.401Z - normal: Simulator: Project Config:
-2019-05-17T02:18:49.401Z - normal: Simulator:     project dir: /Applications/CocosCreator 2.0.9.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
-2019-05-17T02:18:49.401Z - normal: Simulator:     writable path: $(PROJDIR)/
-2019-05-17T02:18:49.402Z - normal: Simulator:     script file: $(PROJDIR)/main.js
-2019-05-17T02:18:49.402Z - normal: Simulator:     frame size: 2208 x 1242
-2019-05-17T02:18:49.402Z - normal: Simulator:     frame scale: 0.75
-2019-05-17T02:18:49.403Z - normal: Simulator:     show console: NO
-2019-05-17T02:18:49.403Z - normal: Simulator:     write debug log: NO ()
-2019-05-17T02:18:49.403Z - normal: Simulator:     listen: 
-2019-05-17T02:18:49.403Z - normal: Simulator:     debugger: none
-2019-05-17T02:18:49.403Z - normal: Simulator:     add searching path:
-2019-05-17T02:18:49.404Z - normal: Simulator: resetDesignResolution request
-2019-05-17T02:18:49.405Z - normal: Simulator: ------------------------------------------------
-2019-05-17T02:18:49.406Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2019-05-17T02:18:49.406Z - normal: Simulator: ------------------------------------------------
-2019-05-17T02:18:49.406Z - normal: Simulator: Initializing V8, version: 6.5.254.43
-2019-05-17T02:18:49.406Z - normal: Simulator: libuv version: 1.23.1-dev
-2019-05-17T02:18:49.406Z - normal: Simulator: Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2019-05-17T02:18:49.406Z - normal: Simulator: For help see https://nodejs.org/en/docs/inspector
-2019-05-17T02:18:49.424Z - normal: Simulator: JS: Enable batch GL commands optimization!
-2019-05-17T02:18:49.424Z - normal: Simulator: resetDesignResolution request
-2019-05-17T02:18:49.424Z - normal: Simulator: ------------------------------------------------
-2019-05-17T02:18:49.425Z - normal: Simulator: LOAD Js FILE: main.js
-2019-05-17T02:18:49.425Z - normal: Simulator: ------------------------------------------------
-2019-05-17T02:18:49.707Z - normal: Simulator: iShow!
-2019-05-17T02:18:49.842Z - normal: Simulator: glGetIntegerv: pname: 0x8b4c
-2019-05-17T02:18:49.858Z - normal: Simulator: JS: Cocos Creator v2.0.9
-2019-05-17T02:18:50.015Z - normal: Simulator: JS: Loading word list
-2019-05-17T02:18:50.015Z - normal: Simulator: JS: [WARN]: loadRes: should not specify the extname in words .json
-2019-05-17T02:18:50.070Z - normal: Simulator: JS: [WARN]: loadRes: should not specify the extname in config .json
-2019-05-17T02:18:50.106Z - normal: Simulator: JS: Loaded 61435 words.
-2019-05-17T02:18:53.012Z - normal: Simulator: ScriptEngine::cleanup begin ...
-2019-05-17T02:18:53.012Z - normal: Simulator: GC begin ..., (js->native map) size: 46, all objects: 130
-2019-05-17T02:18:53.044Z - normal: Simulator: GC end ..., (js->native map) size: 46, all objects: 130
-2019-05-17T02:18:53.044Z - normal: Simulator: GC begin ..., (js->native map) size: 46, all objects: 130
-2019-05-17T02:18:53.073Z - normal: Simulator: GC end ..., (js->native map) size: 46, all objects: 130
-2019-05-17T02:18:53.073Z - normal: Simulator: Destroy WebGLProgram (3) by GC
-2019-05-17T02:18:53.073Z - normal: Simulator: Destroy WebGLTexture (18) by GC
-2019-05-17T02:18:53.074Z - normal: Simulator: Destroy WebGLTexture (17) by GC
-2019-05-17T02:18:53.074Z - normal: Simulator: Destroy WebGLTexture (16) by GC
-2019-05-17T02:18:53.074Z - normal: Simulator: Destroy WebGLTexture (11) by GC
-2019-05-17T02:18:53.074Z - normal: Simulator: Destroy WebGLTexture (9) by GC
-2019-05-17T02:18:53.075Z - normal: Simulator: Destroy WebGLBuffer (7) by GC
-2019-05-17T02:18:53.075Z - normal: Simulator: Destroy WebGLBuffer (6) by GC
-2019-05-17T02:18:53.075Z - normal: Simulator: Destroy WebGLTexture (14) by GC
-2019-05-17T02:18:53.075Z - normal: Simulator: Destroy WebGLTexture (6) by GC
-2019-05-17T02:18:53.075Z - normal: Simulator: Destroy WebGLTexture (13) by GC
-2019-05-17T02:18:53.076Z - normal: Simulator: Destroy WebGLTexture (8) by GC
-2019-05-17T02:18:53.076Z - normal: Simulator: Destroy WebGLTexture (15) by GC
-2019-05-17T02:18:53.076Z - normal: Simulator: Destroy WebGLTexture (4) by GC
-2019-05-17T02:18:53.076Z - normal: Simulator: Destroy WebGLBuffer (8) by GC
-2019-05-17T02:18:53.076Z - normal: Simulator: Destroy WebGLTexture (3) by GC
-2019-05-17T02:18:53.077Z - normal: Simulator: Destroy WebGLTexture (10) by GC
-2019-05-17T02:18:53.077Z - normal: Simulator: Destroy WebGLTexture (7) by GC
-2019-05-17T02:18:53.077Z - normal: Simulator: Destroy WebGLTexture (19) by GC
-2019-05-17T02:18:53.077Z - normal: Simulator: Destroy WebGLTexture (2) by GC
-2019-05-17T02:18:53.077Z - normal: Simulator: Destroy WebGLBuffer (4) by GC
-2019-05-17T02:18:53.077Z - normal: Simulator: Destroy WebGLTexture (12) by GC
-2019-05-17T02:18:53.077Z - normal: Simulator: Destroy WebGLBuffer (5) by GC
-2019-05-17T02:18:53.078Z - normal: Simulator: Destroy WebGLFramebuffer (1) by GC
-2019-05-17T02:18:53.078Z - normal: Simulator: Destroy WebGLBuffer (3) by GC
-2019-05-17T02:18:53.078Z - normal: Simulator: Destroy WebGLTexture (5) by GC
-2019-05-17T02:18:53.078Z - normal: Simulator: Destroy WebGLBuffer (1) by GC
-2019-05-17T02:18:53.079Z - normal: Simulator: Destroy WebGLTexture (1) by GC
-2019-05-17T02:18:53.079Z - normal: Simulator: Destroy WebGLBuffer (2) by GC
-2019-05-17T02:18:53.079Z - normal: Simulator: GC begin ..., (js->native map) size: 0, all objects: 0
-2019-05-17T02:18:53.102Z - normal: Simulator: GC end ..., (js->native map) size: 0, all objects: 0
-2019-05-17T02:18:53.106Z - normal: Simulator: ScriptEngine::cleanup end ...
+2019-05-17T10:45:56.644Z - normal: Load ~/.CocosCreator/settings.json
+2019-05-17T10:45:56.695Z - normal: Initializing Asset Database
+2019-05-17T10:45:56.698Z - normal: checking language setting...
+2019-05-17T10:45:56.698Z - normal: Language: zh
+2019-05-17T10:45:57.386Z - success: preview server running at http://localhost:7456
+2019-05-17T10:45:57.427Z - success: protocol editor-framework registered
+2019-05-17T10:45:57.427Z - success: protocol app registered
+2019-05-17T10:45:57.428Z - success: protocol theme registered
+2019-05-17T10:45:57.428Z - success: protocol packages registered
+2019-05-17T10:45:57.428Z - success: protocol uuid registerred
+2019-05-17T10:45:57.428Z - success: protocol db registerred
+2019-05-17T10:45:57.428Z - success: protocol thumbnail registerred
+2019-05-17T10:45:57.428Z - success: protocol unpack registerred
+2019-05-17T10:45:57.428Z - success: protocol disable-commonjs registerred
+2019-05-17T10:45:57.527Z - normal: connected!
+2019-05-17T10:45:57.528Z - normal: Check project /Users/daichunfeng/git/EnWordSpell
+2019-05-17T10:45:57.530Z - normal: Initializing project /Users/daichunfeng/git/EnWordSpell
+2019-05-17T10:45:57.875Z - normal: Initializing Cocos2d
+2019-05-17T10:45:58.571Z - normal: Initializing engine extends
+2019-05-17T10:45:58.647Z - success: asset-db-debugger loaded
+2019-05-17T10:45:58.648Z - success: baidu-adapter loaded
+2019-05-17T10:45:58.649Z - success: color-picker loaded
+2019-05-17T10:45:58.741Z - success: fb-audience-network loaded
+2019-05-17T10:45:58.800Z - success: fb-live-stream loaded
+2019-05-17T10:45:58.803Z - success: google-play-instant loaded
+2019-05-17T10:45:58.807Z - success: huawei-runtime loaded
+2019-05-17T10:45:58.808Z - success: jsb-adapter loaded
+2019-05-17T10:45:58.813Z - success: oppo-runtime loaded
+2019-05-17T10:45:58.830Z - success: package-manager loaded
+2019-05-17T10:45:58.979Z - success: qqplay-adapter loaded
+2019-05-17T10:45:58.983Z - success: runtime-dev-tools loaded
+2019-05-17T10:45:59.001Z - success: sdkbox loaded
+2019-05-17T10:45:59.017Z - success: tester loaded
+2019-05-17T10:45:59.034Z - success: ui-grid loaded
+2019-05-17T10:45:59.048Z - success: ui-kit-preview-extra loaded
+2019-05-17T10:45:59.064Z - success: ui-kit-preview loaded
+2019-05-17T10:45:59.078Z - success: ui-kit loaded
+2019-05-17T10:45:59.093Z - success: ui-tree loaded
+2019-05-17T10:45:59.098Z - success: vivo-runtime loaded
+2019-05-17T10:45:59.099Z - success: weapp-adapter loaded
+2019-05-17T10:45:59.146Z - success: assets loaded
+2019-05-17T10:45:59.161Z - success: builder loaded
+2019-05-17T10:45:59.442Z - success: cocos-services loaded
+2019-05-17T10:45:59.457Z - success: console loaded
+2019-05-17T10:45:59.486Z - success: fb-instant-games loaded
+2019-05-17T10:45:59.489Z - success: google-instant-games loaded
+2019-05-17T10:45:59.504Z - success: hierarchy loaded
+2019-05-17T10:45:59.520Z - success: inspector loaded
+2019-05-17T10:45:59.521Z - success: keystore loaded
+2019-05-17T10:45:59.534Z - success: node-library loaded
+2019-05-17T10:45:59.536Z - success: package-asset loaded
+2019-05-17T10:45:59.537Z - success: preferences loaded
+2019-05-17T10:45:59.551Z - success: project-exporter loaded
+2019-05-17T10:45:59.567Z - success: project-importer loaded
+2019-05-17T10:45:59.608Z - success: project-settings loaded
+2019-05-17T10:45:59.623Z - success: scene loaded
+2019-05-17T10:45:59.625Z - success: simulator-debugger loaded
+2019-05-17T10:45:59.626Z - success: sprite-editor loaded
+2019-05-17T10:45:59.640Z - success: store loaded
+2019-05-17T10:45:59.655Z - success: timeline loaded
+2019-05-17T10:46:01.021Z - info: Cocos Services load base data!
+2019-05-17T10:46:01.022Z - normal: Loading packages
+2019-05-17T10:46:01.026Z - normal: Watching packages
+2019-05-17T10:46:01.108Z - normal: Run Application
+2019-05-17T10:48:47.565Z - info: shutdown preview server
